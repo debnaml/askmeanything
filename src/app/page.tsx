@@ -176,7 +176,10 @@ export default function Home() {
               </p>
               <button
                 onClick={handleAskAgain}
-                className="mt-4 bg-gradient-to-r from-emerald-600/90 to-teal-600/90 backdrop-blur-sm text-white py-2 px-4 rounded-xl font-medium hover:from-emerald-700/95 hover:to-teal-700/95 transition-all duration-300 shadow-xl border border-white/20"
+                className="mt-4 backdrop-blur-sm text-white py-2 px-4 rounded-xl font-medium transition-all duration-300 shadow-xl border border-white/20 hover:opacity-80"
+                style={{
+                  backgroundColor: '#237781'
+                }}
               >
                 Ask Another Question
               </button>
