@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#3D1152" x="0" y="0" width="100" height="100"></rect>
+        <g id="site-logo" transform="translate(28.000000, 15.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <rect id="Rectángulo_4" x="0" y="0" width="20.0702252" height="70"></rect>
+            <path d="M25.5663053,69.917573 L25.5663053,69.917573 C37.7129274,67.6695641 45,60.8970626 45,51.2770832 L45,30.4770061 L24.9597998,30.4770061 L24.9597998,70 L25.5663053,69.917573 Z" id="Trazado_7"></path>
+        </g>
+    </g>
+</svg>

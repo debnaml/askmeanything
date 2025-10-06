@@ -4,6 +4,9 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Ask Me Anything",
   description: "AI-powered Q&A landing page",
+  icons: {
+    icon: '/favicon.svg',
+  },
 };
 
 export default function RootLayout({
